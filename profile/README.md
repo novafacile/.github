@@ -4,7 +4,7 @@
 We are building digital media & products simple and new.
 
 ## Public Products
-### Products
+### Open Source Products
 * 📷 [novaGallery](https://novagallery.org/) - simple & beautiful php photo gallery - ([Github](https://github.com/novafacile/novagallery))
   * open source php image gallery (A-GPL 3.0)
   * no database, just flat file

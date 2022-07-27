@@ -10,8 +10,9 @@ We are building digital media & products simple and new.
   * no database, just flat file
   * pro license & personal support available
 * 🐶 [Bludit Plugins](https://bludit-plugins.com/) - free and premium plugins for [Bludit CMS](https://www.bludit.com/) - ([Github](https://github.com/novafacile/bludit-plugins))
-  * open source plugins for [Bludit](https://www.bludit.com/)
-  * image gallery, contact form, Ecwid Store integration
+  * 📷 [Image Gallery](https://bludit-plugins.com/#imagegallery)
+  * ✉ [Contact Form](https://bludit-plugins.com/#contact3)
+  * 🛍 [Ecwid Online Store integration](https://bludit-plugins.com/#onlinestore)
   
 ### Support
 * 🙋‍ Open Source support
